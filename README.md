@@ -24,7 +24,7 @@ This Node command-line application allows the user to:
   * Update employee managers & roles
 
 ## Video Link
-[Demo Video for Employee Tracker](./assets/images/img1.png)](./assets/images/video.mov)
+[![Demo Video for Employee Tracker](./assets/images/img1.png)](./assets/images/video.mov)
 
 ## Repository
 https://github.com/dan13l80/Employee_Tracker.git
